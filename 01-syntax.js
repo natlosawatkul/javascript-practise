@@ -12,3 +12,6 @@ let sum = x * y
 console.log(sum)
 console.log(firstName +" "+ lastName)
 
+let a = "something wrong"
+let A = "something upper"
+console.log(A)
