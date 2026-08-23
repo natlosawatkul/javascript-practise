@@ -1,0 +1,11 @@
+{
+  "name": "javascript-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-syntax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
